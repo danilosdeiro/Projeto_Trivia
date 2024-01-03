@@ -1,0 +1,38 @@
+@font-face {
+  font-family: retroica;
+  src: url(./fonts/Retroica.ttf);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #16161a;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 15vmin;
+  pointer-events: none;
+}
+
+.red-border {
+  border: 1px solid red;
+}
+
+.green-border {
+  border: 1px solid green;
+}
+
+main {
+  min-height: 100vh;
+}
