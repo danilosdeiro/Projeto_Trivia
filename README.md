@@ -1,10 +1,16 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Trivia
+
+Jogo de Trivia criado via ferramentas de React! Trivia Game created through React tools.
+
+## Stack 
+
+Front-end com REACT. Voltado a criação de uma página de QUIZ, com consumo de API e gerenciamento de informações via REDUX.
+
+## Estrutura 
+
+É composta por 4 páginas: 
+
+- Login;
+- Game (Onde o jogo acontece);
+- Feedback (Onde o jogador recebe o retorno de seu desempenho durante o jogo);
+- Ranking (Com a ordem de jogadores definida por desempenho);
