@@ -1,6 +1,14 @@
-# Trivia
 
-Jogo de Trivia criado via ferramentas de React! Trivia Game created through React tools.
+
+<p align="center">
+  <img
+    src="https://github.com/danilosdeiro/Projeto_Trivia/assets/94176431/d0ac8fee-0ade-4433-b51d-66816c65438c"
+    height="230"
+    width="340"
+  />
+</p>
+
+## Jogo de Trivia criado via ferramentas de React! Trivia Game created through React tools.
 
 ## Stack 
 
