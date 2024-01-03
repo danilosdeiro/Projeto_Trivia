@@ -8,7 +8,7 @@
   />
 </p>
 
-## Jogo de Trivia criado via ferramentas de React! Trivia Game created through React tools.
+## Jogo de Trivia criado via ferramentas de React!
 
 ## Stack 
 
